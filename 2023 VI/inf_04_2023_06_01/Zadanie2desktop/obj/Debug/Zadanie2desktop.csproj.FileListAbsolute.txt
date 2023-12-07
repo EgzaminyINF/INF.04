@@ -1,0 +1,10 @@
+I:\Mój dysk\INF.04\2023 VI\inf_04_2023_06_01\Zadanie2desktop\bin\Debug\Zadanie2desktop.exe.config
+I:\Mój dysk\INF.04\2023 VI\inf_04_2023_06_01\Zadanie2desktop\bin\Debug\Zadanie2desktop.exe
+I:\Mój dysk\INF.04\2023 VI\inf_04_2023_06_01\Zadanie2desktop\bin\Debug\Zadanie2desktop.pdb
+I:\Mój dysk\INF.04\2023 VI\inf_04_2023_06_01\Zadanie2desktop\obj\Debug\Zadanie2desktop.csproj.AssemblyReference.cache
+I:\Mój dysk\INF.04\2023 VI\inf_04_2023_06_01\Zadanie2desktop\obj\Debug\Zadanie2desktop.Form1.resources
+I:\Mój dysk\INF.04\2023 VI\inf_04_2023_06_01\Zadanie2desktop\obj\Debug\Zadanie2desktop.Properties.Resources.resources
+I:\Mój dysk\INF.04\2023 VI\inf_04_2023_06_01\Zadanie2desktop\obj\Debug\Zadanie2desktop.csproj.GenerateResource.cache
+I:\Mój dysk\INF.04\2023 VI\inf_04_2023_06_01\Zadanie2desktop\obj\Debug\Zadanie2desktop.csproj.CoreCompileInputs.cache
+I:\Mój dysk\INF.04\2023 VI\inf_04_2023_06_01\Zadanie2desktop\obj\Debug\Zadanie2desktop.exe
+I:\Mój dysk\INF.04\2023 VI\inf_04_2023_06_01\Zadanie2desktop\obj\Debug\Zadanie2desktop.pdb
