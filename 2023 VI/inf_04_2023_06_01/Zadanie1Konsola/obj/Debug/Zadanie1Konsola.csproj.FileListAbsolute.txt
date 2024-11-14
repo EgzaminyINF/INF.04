@@ -1,0 +1,7 @@
+I:\Mój dysk\INF.04\2023 VI\inf_04_2023_06_01\Zadanie1Konsola\bin\Debug\Zadanie1Konsola.exe.config
+I:\Mój dysk\INF.04\2023 VI\inf_04_2023_06_01\Zadanie1Konsola\bin\Debug\Zadanie1Konsola.exe
+I:\Mój dysk\INF.04\2023 VI\inf_04_2023_06_01\Zadanie1Konsola\bin\Debug\Zadanie1Konsola.pdb
+I:\Mój dysk\INF.04\2023 VI\inf_04_2023_06_01\Zadanie1Konsola\obj\Debug\Zadanie1Konsola.csproj.AssemblyReference.cache
+I:\Mój dysk\INF.04\2023 VI\inf_04_2023_06_01\Zadanie1Konsola\obj\Debug\Zadanie1Konsola.csproj.CoreCompileInputs.cache
+I:\Mój dysk\INF.04\2023 VI\inf_04_2023_06_01\Zadanie1Konsola\obj\Debug\Zadanie1Konsola.exe
+I:\Mój dysk\INF.04\2023 VI\inf_04_2023_06_01\Zadanie1Konsola\obj\Debug\Zadanie1Konsola.pdb

@@ -1,0 +1,7 @@
+E:\EgzaminyFilmy\INF.04\2023 VI\inf_04_2023_06_02\Zadanie1\bin\Debug\Zadanie1.exe.config
+E:\EgzaminyFilmy\INF.04\2023 VI\inf_04_2023_06_02\Zadanie1\bin\Debug\Zadanie1.exe
+E:\EgzaminyFilmy\INF.04\2023 VI\inf_04_2023_06_02\Zadanie1\bin\Debug\Zadanie1.pdb
+E:\EgzaminyFilmy\INF.04\2023 VI\inf_04_2023_06_02\Zadanie1\obj\Debug\Zadanie1.csproj.AssemblyReference.cache
+E:\EgzaminyFilmy\INF.04\2023 VI\inf_04_2023_06_02\Zadanie1\obj\Debug\Zadanie1.csproj.CoreCompileInputs.cache
+E:\EgzaminyFilmy\INF.04\2023 VI\inf_04_2023_06_02\Zadanie1\obj\Debug\Zadanie1.exe
+E:\EgzaminyFilmy\INF.04\2023 VI\inf_04_2023_06_02\Zadanie1\obj\Debug\Zadanie1.pdb

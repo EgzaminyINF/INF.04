@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Zadanie2.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout 
+            Margin="20">
+
+            <Label
+                Text="Właściwości czcionki"
+                HorizontalOptions="Fill"
+                BackgroundColor="#558B2F"
+                TextColor="White"
+                FontSize="Large"
+                FontAttributes="Bold"/>
+
+            <Label
+                x:Name="rozmiar"
+                Text="Rozmiar: " 
+                HorizontalOptions="Fill"
+                TextColor="Black"
+                FontSize="Medium"/>
+            <Slider 
+                x:Name="slider"
+                Minimum="0" 
+                Maximum="40" 
+                HorizontalOptions="Fill"
+                ValueChanged="zmianaSlidera"/>
+            <Label
+                x:Name="wynik"
+                Text="" 
+                HorizontalOptions="Fill"
+                TextColor="Black"/>
+            <Button
+                x:Name="CounterBtn"
+                Text=">>" 
+                Clicked="OnClicked"
+                HorizontalOptions="Center"
+                BackgroundColor="#558B2F"
+                FontAttributes="Bold,Italic"
+                TextColor="White"/>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
